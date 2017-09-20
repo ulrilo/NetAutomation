@@ -1,0 +1,8 @@
+Network topology for Network Automation Workshop
+
+      MGMT (Management host with OOB management network - Ansible/Jinja2/Python)
+    ___|___
+    | |  |
+    | R1 |
+	|/  \|
+	R2--R3
